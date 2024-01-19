@@ -1,5 +1,7 @@
-package com.example.bbangduk.global.bakery.domain
+package com.example.bbangduk.domain
 
+import com.example.bbangduk.bakery.domain.Bakery
+import com.example.bbangduk.bakery.domain.Location
 import io.kotest.core.spec.style.AnnotationSpec
 import io.kotest.matchers.shouldBe
 

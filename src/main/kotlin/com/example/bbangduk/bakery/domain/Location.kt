@@ -1,4 +1,4 @@
-package com.example.bbangduk.global.bakery.domain
+package com.example.bbangduk.bakery.domain
 
 import jakarta.persistence.Embeddable
 
