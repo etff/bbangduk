@@ -1,4 +1,4 @@
-package com.example.bbangduk.global.bakery.domain
+package com.example.bbangduk.bakery.domain
 
 import com.example.bbangduk.global.model.BaseEntity
 import jakarta.persistence.Embedded
